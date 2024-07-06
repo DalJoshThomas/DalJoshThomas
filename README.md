@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thomasjoshua06@gmail.com**
 
-- ⚡ Fun fact **I love to challenge myself and to learn, I am an animal lover especially cats and I love corny jokes**
+- ⚡ Fun fact **I love to challenging myself and learning from said challenges, I am also an animal lover especially cats and I love corny jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
