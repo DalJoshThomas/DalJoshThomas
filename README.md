@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dalkeith Thomas</h1>
 <h3 align="center">Hi, I’m @Dalkeith Joshua Thomas, I am passionate about solving real-world problems using data-driven techniques. I was born in Jamaica, but currently reside in the United States.</h3>
 
-- 🔭 I’m currently working on **on regression models to answer real-world problems**
+- 🔭 My projects are done in Python,R and Stata using Cross-sectional and time series data. I’m currently working on **models to answer real-world problems**
 
-- 🌱 I’m currently learning **Python,R and SQL**
+- 🌱 I’m currently learning **Python,R,SQL, Statistics and Quantitative research methods**
 
 - 📫 How to reach me **thomasjoshua06@gmail.com**
 
-- ⚡ Fun fact **I am an animal lover especially cats and I love corny jokes**
+- ⚡ Fun fact **I love to challenge myself and to learn, I am an animal lover especially cats and I love corny jokes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
